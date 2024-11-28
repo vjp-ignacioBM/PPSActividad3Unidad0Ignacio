@@ -4,16 +4,16 @@ __3. Configura tu cuenta y git correctamente.__
 éste artículo](https://juncotic.com/repositorios-git-ssh/) 
 
 Generamos la clave con este comando
-![](/Imagenes/C3.png)
+![](/Images/creacionrsa.png)
 
 Creamos el fichero para la configuración de ssh
-![](/Imagenes/C4.png)
+![](/Images/configuracionssh.png)
 
 Para subir la clave pública a GitHub iniciamos sesión e ingresamos a la sección Settings en el menú superior derecho.
-![](/Imagenes/C5.png)
+![](/Images/menugit.png)
 
 Luego en el menú izquierdo ingresamos en SSH and GPG keys.
-![](/Imagenes/C6.png)
+![](/Images/clavessh.png)
 
 Clonamos el repositorio.
-![](/Imagenes/C9.png)
+![](/Images/clonar.png)
