@@ -16,14 +16,11 @@ Los pasos a realizar son los siguientes
 
 __1. Abre una cuenta en Github.com con tu cuenta de @informatica.iesvalledeljerteplasencia.es.__
 
-![](/Imagenes/C1.png)
+![](/Images/Paginaprincipal.png)
 
 __2. Instala git y php en tu equipo.__
 
-![](/Imagenes/C2.png)
+![](/Images/installarphp.png)
 
-Y creo un directorio llamado Images
-![](/Imagenes/C10.png)
-
-Pasamos las capturas hechas hasta ahora dentro de ese directorio
-![](/Imagenes/C11.png)
+Y creo un directorio llamado Images en el que meter las capturas.
+![](/Images/carpetaimg.png)
